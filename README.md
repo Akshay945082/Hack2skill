@@ -1,4 +1,4 @@
-# Hack2skill
+# Company Assignment (Hack2skill)
 Project assinged for interview 
 
 1. Web Scraping Task:
